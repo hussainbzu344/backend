@@ -1,0 +1,45 @@
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('java', 'java.lang', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('java', 'java.io', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('java', 'java.nio', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('java', 'java.net', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('java', 'java.math', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('java', 'java.awt', '3');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('java', 'java.util', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('java', 'java.text', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('java', 'java.security', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('java', 'java.sql', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('java', 'java.applet', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('java', 'java.beans', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('java', 'java.rmi', '11');
+
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('javax', 'javax.accessibility', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('javax', 'javax.activation', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('javax', 'javax.activity', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('javax', 'javax.annotation', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('javax', 'javax.crypto', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('javax', 'javax.imageio', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('javax', 'javax.jws', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('javax', 'javax.lang.model', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('javax', 'javax.management', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('javax', 'javax.naming', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('javax', 'javax.jms', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('android', 'android', '5');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('javax', 'javax.swing', '2');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('javafx', 'javafx', '4');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('javax', 'javax.microedition', '7');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('javax', 'javax.microedition.midlet.MIDlet', '7');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('mockito', 'org.mockito', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('assertj', 'org.assertj', '11');
+
+
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('aspectj ajde', 'org.aspectj.ajde', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('aspectj ajdt', 'org.aspectj.ajdt', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('aspectj apache', 'org.aspectj.apache.bcel', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('aspectj asm', 'org.aspectj.asm', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('aspectj org', 'org.aspectj.org', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('aspectj runtime', 'org.aspectj.runtime', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('aspectj tools', 'org.aspectj.tools', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('aspectj util', 'org.aspectj.util', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('aspectj weaver', 'org.aspectj.weaver', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('objectweb cjdbc', 'org.objectweb.cjdbc', '11');
+INSERT INTO `framework` (`name`, `core_library`, `type_id`) VALUES ('findbugs', 'edu.umd.cs.findbugs', '11');

@@ -1,0 +1,13 @@
+com\edu\autoclass\bean\EntryPoint.class
+com\edu\autoclass\script\Discovery.class
+com\edu\autoclass\bean\ProjectType.class
+com\edu\autoclass\script\ReadXmlFile.class
+com\edu\autoclass\util\DbConfig.class
+com\edu\autoclass\script\Probability.class
+com\edu\autoclass\script\Confirmation.class
+com\edu\autoclass\bean\Framework.class
+com\edu\autoclass\script\ParallelTasks$1.class
+com\edu\autoclass\script\ParallelTasks$2.class
+com\edu\autoclass\script\ParallelTasks.class
+com\edu\autoclass\bean\SearchResult.class
+com\edu\autoclass\script\Types.class
